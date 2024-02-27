@@ -13,4 +13,4 @@
         <li>Ruby (61,8%)</li>
     </ol>
 
-  <img src="https://github.com/Luann8/levantamento-ESTRUTURA-DE-DADOS-Aula-Caio-UV-aula-1/blob/main/3.jpg" alt="imagem">
+  <img src="https://github.com/Luann8/Most-Loved-Programming-Languages-According-to-Stack-Overflow/blob/main/1.png" alt="imagem">
